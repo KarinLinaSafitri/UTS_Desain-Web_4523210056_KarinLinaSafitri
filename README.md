@@ -18,3 +18,9 @@
        Website ini mencakup informasi Home yang menawarkan pilihan untuk bergabung kepada pelanggan,
        Shop untuk memperkenalkan berbagai varian beserta harga dan tombol untuk melakukan pemesanan,
        Delivery untuk menawarkan kemudahan pesanan minuman, App bagian ini untuk pengunjung untuk mengunduh aplikasi es.teh ini.
+
+       ![image alt](https://github.com/KarinLinaSafitri/UTS_Desain-Web_4523210056_KarinLinaSafitri/blob/edbbb6b7ccb9f6c49834e55939ac27e163399b32/Website%20Home.png)
+       ![image.alt](https://github.com/KarinLinaSafitri/UTS_Desain-Web_4523210056_KarinLinaSafitri/blob/edbbb6b7ccb9f6c49834e55939ac27e163399b32/Website%20Shop.png)
+       ![image.alt](https://github.com/KarinLinaSafitri/UTS_Desain-Web_4523210056_KarinLinaSafitri/blob/edbbb6b7ccb9f6c49834e55939ac27e163399b32/Web%20Delivery.png)
+       ![iamge.alt](https://github.com/KarinLinaSafitri/UTS_Desain-Web_4523210056_KarinLinaSafitri/blob/edbbb6b7ccb9f6c49834e55939ac27e163399b32/Websiste%20About%26Contact.png)
+       
